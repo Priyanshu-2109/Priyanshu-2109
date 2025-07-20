@@ -1,4 +1,20 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Chaniyara</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0CF7FF&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+Priyanshu+Chaniyara;Full+Stack+Developer;CP+Enthusiast;Freelancer" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-India-success" />
+  <img src="https://img.shields.io/badge/Languages-Hindi%20%26%20English-brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=Priyanshu-2109&label=Profile%20views&color=blue&style=flat" alt="profile views"/>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" />
+</div>
+<br>
 
 ```js
 const name = 'Priyanshu';
@@ -17,25 +33,51 @@ while(dev.isCoding())
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+### ⚙️ Tech Stack
+
+#### 💬 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,java,cs,python" />
 </p>
+
+#### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,redux" />
+  <img src="https://skillicons.dev/icons?i=threejs" />
+</p>
+
+#### 🛠️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet" />
+</p>
+
+#### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis" />
+</p>
+
+#### 🧰 Tools & Utilities
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman," />
+</p>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+### 🧠 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 
 - 📫 How to reach me: [priyanshuchaniyara42@gmail.com](mailto:priyanshuchaniyara42@gmail.com)
